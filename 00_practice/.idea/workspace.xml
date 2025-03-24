@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="93e56718-1b2b-4039-9dfe-f4e9de8ad19f" name="Changes" comment="" />
+    <list default="true" id="93e56718-1b2b-4039-9dfe-f4e9de8ad19f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../00_YUSEUNGJE/08_JOIN.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00_YUSEUNGJE/09_SUBQUERY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Join.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_KYEONGBIN/Practice/Practice_1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_KYEONGBIN/Practice/Practice_2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_KYEONGBIN/Practice/Practice_3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_KYEONGBIN/Practice/Practice_4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/0323_homework_PARKJUNSEO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/0323_homework_PARKJUNSEO/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/0323_homework_PARKJUNSEO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/0323_homework_PARKJUNSEO/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/0323_homework_PARKJUNSEO/01_DQL_QUESTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/0323_homework_PARKJUNSEO/02_Single_Row_Function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/0323_homework_PARKJUNSEO/03_Group_Function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/0323_homework_PARKJUNSEO/04_GROUP_BY_HAVING.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/03_order_by.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/04_limit.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/05_built_in_functions.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/06_group_by_having.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/newproject.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_YUJIEUN/04_LIMIT.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_YUJIEUN/05_BUILT_IN_FUNTIONS.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_YUJIEUN/06_GROUP_BY_HAVING.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_YUJIEUN/08_practice/01_DQL_QUESTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_YUJIEUN/08_practice/02_Single_Row_Function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_YUJIEUN/08_practice/03_Group_Function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_YUJIEUN/08_practice/04_GROUP_BY_HAVING.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_LEENAYOUNG/09_practice/01_DQL_QUESTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_LEEJUNGA/00_practice/01_DQL_QUESTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_LEEJUNGA/00_practice/02_Single_Row_Function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_LEEJUNGA/00_practice/03_Group_Function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_LEEJUNGA/00_practice/04_GROUP_BY_HAVING.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_LEECHAEHEE/01_DQL_QUESTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_LEECHAEHEE/02_Single_Row_Function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_LEECHAEHEE/03_Group_Function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_LEECHAEHEE/04_GROUP_BY_HAVING.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/0323_homework_PARKJUNSEO/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_PARKJUNSEO/0323_homework_PARKJUNSEO/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_YUSEUNGJE/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../00_YUSEUNGJE/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_YUSEUNGJE/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../00_YUSEUNGJE/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_YUSEUNGJE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../00_YUSEUNGJE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_DQL_QUESTION.sql" beforeDir="false" afterPath="$PROJECT_DIR$/01_DQL_QUESTION.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_YUJIEUN/03_ORDER_BY.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../08_YUJIEUN/03_ORDER_BY.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_LEENAYOUNG/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09_LEENAYOUNG/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_LEENAYOUNG/01_select.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../09_LEENAYOUNG/01_select.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_LEENAYOUNG/02_where.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../09_LEENAYOUNG/02_where.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_LEENAYOUNG/03_ORDER_BY.SQL" beforeDir="false" afterPath="$PROJECT_DIR$/../09_LEENAYOUNG/03_ORDER_BY.SQL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_LEENAYOUNG/04_LIMIT.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../09_LEENAYOUNG/04_LIMIT.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_LEENAYOUNG/05_BUILT_IN_FUNCTIONS.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../09_LEENAYOUNG/05_BUILT_IN_FUNCTIONS.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_CHOSEOKGEUN/06_GROUP_BY_HAVING.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../19_CHOSEOKGEUN/06_GROUP_BY_HAVING.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +71,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2uieFfykUAoTk3xoThwpsYVAXb3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,10 +83,19 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -45,6 +115,9 @@
       <option name="presentableId" value="Default" />
       <updated>1742735722387</updated>
       <workItem from="1742735724909" duration="20000" />
+      <workItem from="1742783909861" duration="13000" />
+      <workItem from="1742783977749" duration="9000" />
+      <workItem from="1742784002267" duration="1335000" />
     </task>
     <servers />
   </component>
